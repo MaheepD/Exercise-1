@@ -1,0 +1,8 @@
+
+
+
+		Maheeps-MacBook-Pro:Exercise-1 maheepdwivedi$ git status
+		On branch master
+		Your branch is up to date with 'one/master'.
+
+		nothing to commit, working tree clean
